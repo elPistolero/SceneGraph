@@ -1,0 +1,3 @@
+[submodule "glm"]
+	path = glm
+	url = git://og-math.git.sourceforge.net/gitroot/ogl-math/ogl-math
